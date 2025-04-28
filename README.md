@@ -51,9 +51,6 @@ $learning = [
 ];
 
 
-## 📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=My&show_icons=true&theme=merko&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=merko&hide_border=true" width="48%" /> </div>
-
 ## 💬 Let's Connect
 Feel free to reach out to me for collaboration or just to chat about tech!
 
