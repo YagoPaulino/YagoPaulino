@@ -23,32 +23,24 @@ On the **backend**, I have basic experience with **PHP, MySQL and Laravel**.
 
 ## 🧑‍💻 My Developer Object  
 
-const developer = {
-  name: "Yago Paulino",
-  role: "Full Stack Developer",
-  focus: "Front-end (HTML + Tailwind CSS)",
-  backend: "PHP, MySQL, Laravel (basic)",
-  skills: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
-  goal: "Create user-friendly, scalable, high-performance applications 🚀"
+Developer = 
+  name: Yago Paulino,
+  role: Full Stack Developer,
+  focus: Front-end (HTML + Tailwind CSS),
+  backend: PHP, MySQL, Laravel (basic),
+  skills: HTML, CSS, JavaScript, Tailwind CSS,
+  goal: Create user-friendly, scalable, high-performance applications 🚀
 };
 
 🛠️ Technologies & Tools
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,php,mysql,laravel,git,github,vscode,figma" width="600" /> </div>
 
 🌱 Currently Learning
-$learning = [
-  "Advanced Laravel",
-  "JavaScript Frameworks (React, Vue)",
-  "Front-end Architecture & Design Patterns"
-];
-
-☕ Dev Life
-.developer-life {
-  coffee: 100%;
-  creativity: 100%;
-  clean_code: 100%;
-  bugs: 0%;
-}
+Learning = 
+  Advanced Laravel,
+  JavaScript Frameworks (React, Vue),
+  Front-end Architecture & Design Patterns
+;
 
 💬 Let's Connect
 
