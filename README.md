@@ -1,75 +1,58 @@
 <!-- Header Image -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=200&section=header&text=Hi,%20I'm%20[Yago_Paulino]%20👨‍💻&fontSize=40&fontColor=ffffff&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=200&section=header&text=Hi,%20I'm%20Yago%20Paulino%20👨‍💻&fontSize=40&fontColor=ffffff&fontAlign=50" />
 
 <div align="center">
 
-# Full Stack Developer | Front-end Focused 🚀
+# 💻 Full Stack Developer | Front-end Specialist  
 
-## Creating modern, high-performance web applications with clean code and responsive design.
+### Building modern, responsive and high-performance web applications 🚀  
 
 </div>
 
 ---
 
-## 📜 About Me
+## 📜 About Me  
 
-I’m a passionate **Full Stack Developer** with a primary focus on **Front-end development**. I love creating responsive, fast, and visually appealing web interfaces. My goal is to deliver **high-performance solutions** that provide a seamless user experience.
+I’m a **Full Stack Developer** with strong focus on **Front-end development**.  
+I **master HTML and Tailwind CSS**, delivering clean, scalable, and responsive interfaces with attention to detail.  
+On the **backend**, I have basic experience with **PHP, MySQL and Laravel**.  
 
-## javascript
+🎓 I hold a **Technical degree in Informatics** and currently work as a **professional developer**, constantly evolving my skills.  
+
+---
+
+## 🧑‍💻 My Developer Object  
 
 const developer = {
-
-  name: "[Yago P.]",
-  
-  focus: "Front-end Development",
-  
-  backend: "PHP, MySQL, Laravel (intermediate)",
-  
+  name: "Yago Paulino",
+  role: "Full Stack Developer",
+  focus: "Front-end (HTML + Tailwind CSS)",
+  backend: "PHP, MySQL, Laravel (basic)",
   skills: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
-  
-  goal: "To create scalable, user-friendly applications 🚀"
-  
+  goal: "Create user-friendly, scalable, high-performance applications 🚀"
 };
 
-## 🛠️ Technologies & Tools:
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,php,mysql,laravel,vscode,git,github,figma" width="600"/> </div>
+🛠️ Technologies & Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,php,mysql,laravel,git,github,vscode,figma" width="600" /> </div>
 
-
-## 🌱 Currently Learning
-I’m constantly improving my skills, and currently diving deeper into:
-
-## php
-
+🌱 Currently Learning
 $learning = [
-
   "Advanced Laravel",
-  
   "JavaScript Frameworks (React, Vue)",
-  
   "Front-end Architecture & Design Patterns"
-  
 ];
 
-
-## 💬 Let's Connect
-Feel free to reach out to me for collaboration or just to chat about tech!
-
-📧 Email: [yagopaulino04@gmail.com]
-
-
-/* Writing clean code while enjoying coffee ☕ */
-
+☕ Dev Life
 .developer-life {
-
   coffee: 100%;
-  
   creativity: 100%;
-  
+  clean_code: 100%;
   bugs: 0%;
-  
 }
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=footer" /> 
+💬 Let's Connect
+
+📧 Email: yagopaulino04@gmail.com
 
 
 
