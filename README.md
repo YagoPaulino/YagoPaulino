@@ -1,5 +1,9 @@
 <!-- Header Image -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=200&section=header&text=Hi,%20I'm%20Yago%20Paulino%20👨‍💻&fontSize=40&fontColor=ffffff&fontAlign=50" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660F24&height=200&section=header&text=Hi,%20I'm%20Yago%20Paulino&fontSize=40&fontColor=ffffff&fontAlign=50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80" alt="dev icon" />
+</div>
+
 
 <div align="center">
 
