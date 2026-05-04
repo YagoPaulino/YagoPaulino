@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660F24&height=200&section=header&text=Hi,%20I'm%20Yago%20Paulino&fontSize=40&fontColor=ffffff&fontAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6A00&height=200&section=header&text=Hi,%20I'm%20Yago%20Paulino&fontSize=40&fontColor=ffffff&fontAlign=50" />
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80" alt="dev icon" />
 </div>
 
@@ -52,6 +52,6 @@ Learning =
 
 <!-- Footer Image --> 
 <div align="center"> 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660F24&height=150&section=footer" /> 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6A00&height=150&section=footer" /> 
 </div> 
 
