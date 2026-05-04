@@ -31,13 +31,13 @@ Developer =
   name: Yago Paulino,
   role: Full Stack Developer,
   focus: Front-end (HTML + Tailwind CSS),
-  backend: PHP, MySQL, Laravel (basic),
+  backend: PHP, MySQL, Python, Laravel (basic),
   skills: HTML, CSS, JavaScript, Tailwind CSS,
   goal: Create user-friendly, scalable, high-performance applications 🚀
 };
 
 🛠️ Technologies & Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,php,mysql,laravel,git,github,vscode,figma" width="600" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,php,python,mysql,laravel,git,github,vscode," width="600" /> </div>
 
 🌱 Currently Learning
 Learning = 
