@@ -142,4 +142,3 @@ Sou desenvolvedor **Front-End** e levo o design a sério. Pego o protótipo no *
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF1744,55:7A0000,100:0A0000&section=footer" alt="" /><img width="1350" height="450" alt="banner" src="https://github.com/user-attachments/assets/5ad199a5-9696-4b12-b116-4c287e47f483" />
