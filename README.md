@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=280&color=0:0A0000,35:5C0A0A,70:B3001B,100:FF1744&section=header&text=YAGO%20PAULINO&fontSize=66&fontColor=FFFFFF&fontAlignY=42&desc=Front-End%20Developer&descSize=22&descAlignY=64&animation=fadeIn" alt="Yago Paulino" />
+<img width="100%" src="./banner.png" alt="Yago Paulino, Front-End Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1300&color=FF1744&center=true&vCenter=true&width=680&lines=React+%7C+TypeScript+%7C+Tailwind+CSS;UI%2FUX+%7C+Figma+%7C+Design+Responsivo;Transformando+design+em+interfaces+r%C3%A1pidas;Detalhe+%C3%A9+o+que+separa+o+bom+do+inesquec%C3%ADvel" alt="Typing SVG" />
@@ -142,4 +142,4 @@ Sou desenvolvedor **Front-End** e levo o design a sério. Pego o protótipo no *
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF1744,55:7A0000,100:0A0000&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF1744,55:7A0000,100:0A0000&section=footer" alt="" /><img width="1350" height="450" alt="banner" src="https://github.com/user-attachments/assets/5ad199a5-9696-4b12-b116-4c287e47f483" />
