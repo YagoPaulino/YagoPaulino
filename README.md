@@ -1,26 +1,25 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0000,50:7A0000,100:FF1744&height=260&section=header&text=YAGO%20PAULINO&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=Front-End%20Developer&descSize=22&descAlignY=64&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0000,45:7A0000,100:FF1744&section=header&text=YAGO%20PAULINO&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer&descSize=22&descAlignY=58&animation=fadeIn" alt="Yago Paulino" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF1744&center=true&vCenter=true&width=640&lines=React+%7C+TypeScript+%7C+Tailwind+CSS;UI%2FUX+%7C+Design+Responsivo+%7C+Figma;Interfaces+limpas%2C+r%C3%A1pidas+e+marcantes;Transformando+design+em+c%C3%B3digo+%F0%9F%A9%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1300&color=FF1744&center=true&vCenter=true&width=680&lines=React+%7C+TypeScript+%7C+Tailwind+CSS;UI%2FUX+%7C+Figma+%7C+Design+Responsivo;Transformando+design+em+interfaces+r%C3%A1pidas;Detalhe+%C3%A9+o+que+separa+o+bom+do+inesquec%C3%ADvel" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-B71C1C?style=for-the-badge&labelColor=0D0000)
-![Foco](https://img.shields.io/badge/FOCO-FRONT--END-FF1744?style=for-the-badge&labelColor=0D0000)
-![Stack](https://img.shields.io/badge/STACK-REACT%20%2B%20TS-8B0000?style=for-the-badge&labelColor=0D0000)
+<img src="https://img.shields.io/badge/FRONT--END-FF1744?style=for-the-badge&labelColor=0A0000" />
+<img src="https://img.shields.io/badge/REACT-D4132F?style=for-the-badge&labelColor=0A0000" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-B3001B?style=for-the-badge&labelColor=0A0000" />
+<img src="https://img.shields.io/badge/TAILWIND-8B0000?style=for-the-badge&labelColor=0A0000" />
+<img src="https://img.shields.io/badge/FIGMA-5C0A0A?style=for-the-badge&labelColor=0A0000" />
+
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ SOBRE ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A0000,100:0D0000&height=3&section=header" width="100%" />
-
-## 🩸 `> sobre_mim`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:7A0000,100:0A0000&text=01%20%2F%2F%20SOBRE%20MIM&fontSize=18&fontColor=FF1744&fontAlign=12&fontAlignY=52" alt="Sobre mim" />
 
 ```ts
 const yago = {
@@ -29,115 +28,119 @@ const yago = {
   formacao: "Técnico em Informática",
   foco:     ["React", "TypeScript", "Tailwind CSS", "UI/UX"],
   design:   ["Figma", "Design Responsivo"],
-  backend:  ["PHP", "MySQL", "Laravel", "Python"], // nível básico
-  missao:   "Criar interfaces escaláveis, rápidas e que ninguém esquece",
+  backend:  ["PHP", "Laravel", "MySQL", "Python"], // básico
+  missao:   "Transformar design em interfaces rápidas, escaláveis e inesquecíveis",
 } as const;
 ```
 
-Sou **desenvolvedor Front-End** apaixonado por transformar protótipos do **Figma** em interfaces limpas, responsivas e com atenção a cada detalhe. Trabalho profissionalmente com desenvolvimento web e estou sempre evoluindo, tanto no código quanto no olhar de design.
+Sou desenvolvedor **Front-End** e levo o design a sério. Pego o protótipo no **Figma**, penso na experiência do usuário e entrego interfaces **responsivas, limpas e com atenção a cada detalhe**. Trabalho profissionalmente com desenvolvimento web e estou sempre evoluindo, tanto no código quanto no olhar.
 
 <br/>
 
-<!-- ═══════════════════════ STACK ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A0000,100:0D0000&height=3&section=header" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:7A0000,100:0A0000&text=02%20%2F%2F%20ARSENAL&fontSize=18&fontColor=FF1744&fontAlign=10&fontAlignY=52" alt="Arsenal" />
 
-## 🔥 `> arsenal`
-
-<div align="center">
-
-### Front-End
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,figma&perline=7" />
-
-### Back-End & Banco *(básico)*
-<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql&perline=4" />
-
-### Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ ESPECIALIDADES ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A0000,100:0D0000&height=3&section=header" width="100%" />
-
-## ⚔️ `> especialidades`
-
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
-      <h3>🎨 UI / UX</h3>
-      <sub>Layouts pensados para o usuário,<br/>protótipos no Figma e hierarquia visual forte.</sub>
+    <td width="22%"><b>FRONT-END</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-FF1744?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/TypeScript-F0153F?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/JavaScript-E01E37?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/HTML-D4132F?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/CSS-C71F37?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-B3001B?style=for-the-badge&labelColor=0A0000" />
     </td>
-    <td align="center" width="33%">
-      <h3>📱 Responsivo</h3>
-      <sub>Mobile-first, fluido em qualquer tela,<br/>do celular ao monitor ultrawide.</sub>
+  </tr>
+  <tr>
+    <td><b>DESIGN</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/UI%2FUX-A4161A?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/Figma-8B0000?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/Design%20Responsivo-7A0A0A?style=for-the-badge&labelColor=0A0000" />
     </td>
-    <td align="center" width="33%">
-      <h3>⚡ Performance</h3>
-      <sub>Código limpo, componentes reutilizáveis<br/>e interfaces que carregam rápido.</sub>
+  </tr>
+  <tr>
+    <td><b>BACK-END (BÁSICO)</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-6B0A12?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/Laravel-5C0A0A?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/MySQL-4D0808?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/Python-3F0606?style=for-the-badge&labelColor=0A0000" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>FERRAMENTAS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-FF1744?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/GitHub-D4132F?style=for-the-badge&labelColor=0A0000" />
+      <img src="https://img.shields.io/badge/VS%20Code-A4161A?style=for-the-badge&labelColor=0A0000" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ═══════════════════════ ESTUDANDO ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A0000,100:0D0000&height=3&section=header" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:7A0000,100:0A0000&text=03%20%2F%2F%20ESPECIALIDADES&fontSize=18&fontColor=FF1744&fontAlign=15&fontAlignY=52" alt="Especialidades" />
 
-## 🌑 `> evoluindo`
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 &nbsp; UI / UX</h3>
+      <sub>Layouts pensados no Figma, hierarquia visual forte e foco total em quem vai usar.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 &nbsp; RESPONSIVO</h3>
+      <sub>Mobile-first. Fluido do celular ao monitor ultrawide, sem quebrar o design.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 &nbsp; PERFORMANCE</h3>
+      <sub>Componentes reutilizáveis, código limpo e interfaces que carregam rápido.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:7A0000,100:0A0000&text=04%20%2F%2F%20EM%20EVOLU%C3%87%C3%83O&fontSize=18&fontColor=FF1744&fontAlign=14&fontAlignY=52" alt="Em evolução" />
 
 ```diff
 + React avançado e padrões de componentes
 + Arquitetura Front-End e Design Patterns
 + TypeScript em projetos de maior escala
 + Laravel avançado
-- Parar de evoluir (nunca)
+- Parar de evoluir
 ```
 
 <br/>
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A0000,100:0D0000&height=3&section=header" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:7A0000,100:0A0000&text=05%20%2F%2F%20ESTAT%C3%8DSTICAS&fontSize=18&fontColor=FF1744&fontAlign=15&fontAlignY=52" alt="Estatísticas" />
 
-## 📊 `> stats`
-
-<!-- Troque SEU_USUARIO pelo seu username do GitHub -->
+<!-- Username do GitHub -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0000&title_color=FF1744&icon_color=FF1744&text_color=E0C0C0&ring_color=B71C1C" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D0000&title_color=FF1744&text_color=E0C0C0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YagoPaulino&show_icons=true&hide_border=true&bg_color=0A0000&title_color=FF1744&icon_color=D4132F&text_color=F2B8BF&ring_color=FF1744" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoPaulino&layout=compact&hide_border=true&bg_color=0A0000&title_color=FF1744&text_color=F2B8BF" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0D0000&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=E0C0C0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A6A6A" />
+<img src="https://streak-stats.demolab.com?user=YagoPaulino&hide_border=true&background=0A0000&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&sideLabels=F2B8BF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9505F" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YagoPaulino&bg_color=0A0000&color=FF1744&line=D4132F&point=FFFFFF&area=true&area_color=7A0000&hide_border=true&title_color=FF1744" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ CONTATO ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A0000,100:0D0000&height=3&section=header" width="100%" />
-
-## 🩸 `> contato`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:7A0000,100:0A0000&text=06%20%2F%2F%20CONTATO&fontSize=18&fontColor=FF1744&fontAlign=11&fontAlignY=52" alt="Contato" />
 
 <div align="center">
 
-<a href="mailto:yagopaulino04@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-yagopaulino04@gmail.com-B71C1C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0000" />
-</a>
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GITHUB-SEU__USUARIO-FF1744?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0000" />
-</a>
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0000" />
-</a>
-
-<br/><br/>
-
-<sub>💬 Bora construir algo que valha a pena ver.</sub>
+<a href="mailto:yagopaulino04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-yagopaulino04%40gmail.com-FF1744?style=for-the-badge&labelColor=0A0000" /></a>
+<a href="https://github.com/YagoPaulino"><img src="https://img.shields.io/badge/GITHUB-YagoPaulino-D4132F?style=for-the-badge&labelColor=0A0000" /></a>
+<a href="https://linkedin.com/in/yago-paulino"><img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-A4161A?style=for-the-badge&labelColor=0A0000" /></a>
 
 </div>
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1744,50:7A0000,100:0D0000&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF1744,55:7A0000,100:0A0000&section=footer" alt="" />
